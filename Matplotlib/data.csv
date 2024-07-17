@@ -1,0 +1,201 @@
+Gender,Marks_Math,Time_ICT,ICT_Based_Pedagogy,ICT_Tools,TPD_ICT,CS_Marks,Operating_system_Used,Age,Residental_Area,Religion
+male,51,1,rarely,"interactive whiteboards,",yes,43,Android,17,Metropolitan City,Hindu
+Female,55,2,sometimes,educational apps,yes,41,IOS,18,Submetropolitan,Christian
+male,65,3,always,online platforms,yes,45,Windows,18,Municipality,Buddism
+Female,79,4,rarely,online platforms,no,40,others,19,Rural Municipality,Muslim
+male,67,1,often,online platforms,no,44,Android,17,Metropolitan City,other
+Female,37,2,sometimes,educational apps,yes,43,IOS,16,Municipality,Hindu
+Female,36,3,rarely,"interactive whiteboards,",no,48,Windows,15,Submetropolitan,Buddism
+Female,48,4,always,online platforms,yes,38,others,12,Rural Municipality,Christian
+Female,68,1,sometimes,educational apps,no,40,Android,13,Submetropolitan,other
+Female,72,3,always,online platforms,yes,40,IOS,17,Municipality,Christian
+male,45,4,often,online platforms,no,43,Windows,18,Rural Municipality,Hindu
+male,47,2,sometimes,multimedia resources,yes,39,others,18,Metropolitan City,Muslim
+male,54,3,often,educational apps,no,42,Android,16,Municipality,Buddism
+male,70,1,always,online platforms,no,42,IOS,15,Rural Municipality,other
+male,58,4,rarely,multimedia resources,no,40,Windows,14,Submetropolitan,Hindu
+male,85,1,often,educational apps,no,43,others,12,Municipality,Muslim
+Female,60,2,sometimes,"interactive whiteboards,",yes,44,Android,15,Rural Municipality,Christian
+male,62,4,always,educational apps,yes,43,IOS,12,Metropolitan City,Buddism
+Female,75,2,rarely,online platforms,yes,40,Windows,13,Municipality,other
+Female,70,1,often,online platforms,no,40,others,14,Submetropolitan,Hindu
+male,76,4,sometimes,multimedia resources,yes,39,Android,15,Rural Municipality,Buddism
+male,89,3,always,"interactive whiteboards,",yes,42,IOS,14,Submetropolitan,Christian
+Female,37,1,always,educational apps,no,38,Windows,16,Municipality,other
+male,73,2,sometimes,online platforms,yes,42,others,16,Metropolitan City,Buddism
+Female,84,3,often,multimedia resources,no,42,Android,16,Rural Municipality,Hindu
+male,73,1,rarely,online platforms,yes,40,IOS,13,Submetropolitan,Christian
+Female,63,4,always,online platforms,no,47,Windows,13,Metropolitan City,Muslim
+male,60,5,sometimes,multimedia resources,yes,41,others,12,Municipality,other
+Female,83,2,often,educational apps,no,39,Android,13,Rural Municipality,Hindu
+Female,53,3,rarely,"interactive whiteboards,",no,35,IOS,14,Submetropolitan,Christian
+Female,77,6,often,online platforms,yes,39,Windows,15,Municipality,Buddism
+Female,42,1,sometimes,multimedia resources,no,45,others,15,Rural Municipality,other
+male,54,3,always,online platforms,yes,39,Android,16,Submetropolitan,Muslim
+male,64,2,sometimes,multimedia resources,no,42,IOS,17,Rural Municipality,Hindu
+Female,43,5,often,educational apps,yes,38,Android,15,Municipality,Christian
+Female,79,2,rarely,online platforms,yes,44,IOS,15,Metropolitan City,Buddism
+Female,64,4,sometimes,multimedia resources,no,38,Android,15,Submetropolitan,other
+Female,77,5,often,online platforms,yes,41,IOS,12,Municipality,Hindu
+Female,76,3,sometimes,multimedia resources,no,44,Windows,12,Rural Municipality,Buddism
+male,60,4,always,online platforms,yes,41,others,15,Metropolitan City,Christian
+Female,72,3,rarely,multimedia resources,no,44,Android,15,Municipality,other
+male,75,5,sometimes,online platforms,yes,44,Windows,16,Submetropolitan,Hindu
+Female,53,4,often,multimedia resources,no,42,IOS,16,Rural Municipality,Muslim
+male,67,3,always,online platforms,yes,38,others,14,Submetropolitan,Buddism
+Female,37,2,sometimes,online platforms,no,41,Android,12,Submetropolitan,Christian
+male,46,1,often,online platforms,yes,44,IOS,13,Rural Municipality,other
+male,61,4,rarely,online platforms,yes,41,Windows,13,Metropolitan City,Buddism
+male,51,3,always,multimedia resources,no,37,others,15,Municipality,Hindu
+male,82,5,often,educational apps,no,44,Android,14,Submetropolitan,Muslim
+Female,62,2,rarely,online platforms,yes,37,IOS,16,Rural Municipality,other
+Female,57,3,sometimes,multimedia resources,yes,39,Windows,12,Submetropolitan,Christian
+Female,64,4,always,educational apps,yes,41,others,13,Municipality,Hindu
+male,72,5,sometimes,online platforms,no,38,Android,14,Rural Municipality,Muslim
+male,61,2,often,multimedia resources,no,43,IOS,13,Metropolitan City,Christian
+male,69,4,rarely,online platforms,yes,43,Windows,14,Municipality,other
+Female,70,2,always,multimedia resources,yes,44,Android,14,Rural Municipality,Hindu
+Female,70,3,often,educational apps,yes,39,IOS,14,Submetropolitan,Muslim
+Female,68,4,sometimes,online platforms,yes,41,Android,15,Municipality,other
+male,76,1,always,multimedia resources,no,40,IOS,16,Rural Municipality,Hindu
+male,94,2,sometimes,online platforms,no,43,Windows,16,Submetropolitan,Hindu
+Female,63,3,often,multimedia resources,yes,46,others,15,Rural Municipality,Hindu
+Female,75,5,rarely,online platforms,no,42,Android,15,Municipality,Christian
+male,71,4,sometimes,educational apps,yes,41,IOS,16,Metropolitan City,Muslim
+Female,54,6,often,online platforms,no,35,Windows,16,Submetropolitan,other
+male,62,3,sometimes,multimedia resources,no,43,others,15,Municipality,Hindu
+Female,66,4,always,online platforms,yes,40,Windows,15,Rural Municipality,Muslim
+male,61,5,often,multimedia resources,yes,38,others,14,Metropolitan City,Muslim
+Female,67,6,rarely,online platforms,yes,39,IOS,12,Municipality,Christian
+male,87,1,sometimes,educational apps,yes,45,Android,13,Rural Municipality,other
+male,71,4,often,online platforms,no,45,Windows,14,Submetropolitan,Hindu
+male,50,6,rarely,educational apps,yes,42,IOS,15,Municipality,Buddism
+male,80,2,always,multimedia resources,no,39,others,14,Rural Municipality,Christian
+Female,74,3,sometimes,online platforms,yes,40,Android,16,Submetropolitan,other
+Female,70,4,often,educational apps,no,41,Windows,16,Rural Municipality,Hindu
+male,66,1,always,online platforms,yes,42,others,16,Municipality,Christian
+Female,62,5,rarely,educational apps,yes,43,IOS,13,Metropolitan City,Muslim
+male,78,6,sometimes,online platforms,no,39,Android,13,Submetropolitan,Buddism
+Female,61,4,often,multimedia resources,no,43,Android,12,Municipality,other
+male,54,1,sometimes,online platforms,yes,41,Windows,13,Rural Municipality,Hindu
+Female,68,3,rarely,educational apps,no,39,others,14,Metropolitan City,Christian
+male,62,2,always,online platforms,yes,41,Android,15,Municipality,Muslim
+Female,45,5,sometimes,multimedia resources,no,36,IOS,15,Submetropolitan,Buddism
+male,62,6,often,educational apps,yes,42,Windows,16,Rural Municipality,other
+Female,60,3,rarely,online platforms,no,42,Android,17,Municipality,Hindu
+male,73,1,always,multimedia resources,yes,36,IOS,15,Submetropolitan,Hindu
+Female,63,3,sometimes,online platforms,no,37,others,15,Rural Municipality,Christian
+male,73,5,always,educational apps,yes,46,Android,15,Metropolitan City,other
+Female,85,3,rarely,online platforms,no,40,Windows,12,Municipality,Muslim
+male,72,2,sometimes,educational apps,yes,38,others,12,Submetropolitan,Hindu
+Female,33,5,often,online platforms,no,33,IOS,15,Rural Municipality,Christian
+male,81,3,always,online platforms,yes,44,Windows,15,Submetropolitan,Muslim
+Female,79,2,rarely,multimedia resources,no,36,others,16,Municipality,other
+male,61,4,often,online platforms,no,38,IOS,16,Rural Municipality,Hindu
+Female,74,3,always,multimedia resources,no,38,Android,14,Metropolitan City,Christian
+male,74,1,sometimes,online platforms,no,42,Windows,12,Municipality,Muslim
+Female,46,5,rarely,multimedia resources,yes,37,others,13,Rural Municipality,other
+male,62,6,often,online platforms,yes,36,Windows,13,Submetropolitan,Hindu
+Female,67,3,sometimes,multimedia resources,yes,47,others,15,Municipality,Hindu
+male,63,2,always,online platforms,yes,49,Android,14,Rural Municipality,Christian
+Female,62,1,always,online platforms,no,43,IOS,16,Submetropolitan,Muslim
+male,44,4,rarely,multimedia resources,yes,40,Windows,12,Rural Municipality,other
+Female,43,3,sometimes,online platforms,no,44,others,14,Municipality,Hindu
+male,60,4,often,multimedia resources,yes,40,Android,12,Metropolitan City,Muslim
+male,56,5,always,online platforms,no,40,IOS,13,Submetropolitan,Christian
+male,71,6,rarely,online platforms,yes,37,Windows,14,Municipality,other
+Female,70,2,sometimes,multimedia resources,no,40,others,13,Rural Municipality,Hindu
+Female,61,1,often,online platforms,yes,40,Android,14,Metropolitan City,Muslim
+Female,60,5,always,multimedia resources,no,36,IOS,14,Municipality,Muslim
+male,41,3,rarely,educational apps,yes,34,Windows,14,Rural Municipality,Christian
+male,77,6,sometimes,"interactive whiteboards,",no,40,others,15,Submetropolitan,other
+Female,59,2,often,online platforms,yes,38,Windows,16,Municipality,Hindu
+Female,76,4,always,educational apps,no,43,others,16,Rural Municipality,Buddism
+male,62,3,often,multimedia resources,yes,49,Android,15,Submetropolitan,Christian
+Female,76,3,sometimes,online platforms,no,35,IOS,15,Rural Municipality,other
+male,80,1,rarely,multimedia resources,yes,44,Windows,16,Municipality,Muslim
+Female,68,4,often,educational apps,no,43,others,16,Metropolitan City,Hindu
+male,55,5,sometimes,online platforms,yes,41,Windows,15,Submetropolitan,Christian
+Female,66,3,always,multimedia resources,no,42,Android,15,Municipality,Muslim
+male,76,5,rarely,online platforms,yes,44,IOS,14,Rural Municipality,other
+Female,54,2,sometimes,educational apps,no,45,Windows,17,Metropolitan City,Hindu
+male,71,4,often,online platforms,yes,38,Android,18,Municipality,Muslim
+Female,66,3,always,educational apps,no,38,IOS,18,Submetropolitan,Christian
+male,49,1,often,online platforms,yes,39,others,19,Rural Municipality,other
+Female,53,6,rarely,multimedia resources,no,44,others,17,Municipality,Muslim
+Female,67,1,sometimes,"interactive whiteboards,",yes,43,Windows,16,Submetropolitan,Hindu
+male,73,3,often,"interactive whiteboards,",no,41,Android,15,Rural Municipality,Christian
+male,68,4,always,online platforms,yes,45,Windows,12,Metropolitan City,Muslim
+male,70,7,rarely,multimedia resources,no,39,Android,13,Municipality,other
+Female,75,4,sometimes,"interactive whiteboards,",yes,47,IOS,17,Submetropolitan,Hindu
+Female,53,3,often,educational apps,no,45,others,18,Rural Municipality,Christian
+Female,68,2,sometimes,online platforms,no,41,Windows,18,Submetropolitan,Muslim
+male,67,6,always,multimedia resources,yes,41,Android,16,Municipality,Hindu
+Female,58,4,rarely,"interactive whiteboards,",no,45,IOS,15,Rural Municipality,Muslim
+male,68,2,sometimes,multimedia resources,yes,41,Windows,14,Metropolitan City,Hindu
+Female,71,3,often,multimedia resources,no,39,others,12,Municipality,Christian
+male,40,4,always,online platforms,yes,39,IOS,15,Submetropolitan,Muslim
+male,67,2,rarely,multimedia resources,no,39,Windows,12,Submetropolitan,Hindu
+Female,72,5,sometimes,educational apps,yes,43,others,13,Municipality,Hindu
+male,68,1,often,multimedia resources,yes,39,Android,14,Rural Municipality,Buddism
+Female,77,6,always,online platforms,yes,36,IOS,15,Submetropolitan,Christian
+male,61,4,always,multimedia resources,yes,44,Windows,14,Rural Municipality,Christian
+male,71,1,often,online platforms,yes,41,Android,16,Municipality,Hindu
+Female,83,5,sometimes,multimedia resources,yes,41,IOS,16,Metropolitan City,Christian
+Female,62,2,often,online platforms,no,38,5,16,Submetropolitan,Muslim
+male,59,3,always,educational apps,no,42,Windows,13,Municipality,Buddism
+Female,84,5,rarely,educational apps,no,44,others,13,Rural Municipality,other
+male,76,6,sometimes,online platforms,yes,40,Windows,12,Metropolitan City,Christian
+Female,60,3,often,multimedia resources,no,45,Windows,13,Municipality,Hindu
+male,42,5,always,online platforms,yes,36,Windows,14,Rural Municipality,Christian
+Female,49,4,rarely,multimedia resources,no,42,IOS,15,Submetropolitan,Muslim
+male,85,5,sometimes,online platforms,yes,39,others,15,Municipality,Muslim
+Female,55,2,often,"interactive whiteboards,",no,41,Windows,16,Rural Municipality,Hindu
+male,57,5,always,educational apps,yes,48,IOS,17,Submetropolitan,Christian
+Female,61,6,often,online platforms,no,42,Android,15,Rural Municipality,Christian
+male,48,2,always,educational apps,yes,33,Windows,15,Municipality,other
+male,70,3,often,online platforms,no,40,Windows,15,Metropolitan City,Hindu
+Female,83,4,always,multimedia resources,no,46,Windows,12,Submetropolitan,Christian
+Female,65,5,sometimes,multimedia resources,yes,43,IOS,12,Municipality,other
+male,47,6,often,educational apps,no,42,IOS,15,Rural Municipality,Christian
+Female,61,1,always,online platforms,yes,45,IOS,17,Metropolitan City,Hindu
+male,78,4,always,educational apps,no,41,Android,18,Municipality,other
+Female,58,2,often,online platforms,yes,40,IOS,18,Submetropolitan,Christian
+male,68,4,always,online platforms,no,38,Windows,19,Rural Municipality,Muslim
+Female,43,3,sometimes,multimedia resources,yes,40,Windows,17,Municipality,Christian
+male,40,5,often,multimedia resources,no,46,others,16,Submetropolitan,Hindu
+Female,69,6,always,online platforms,no,37,Android,15,Rural Municipality,Muslim
+male,59,2,sometimes,educational apps,yes,45,others,12,Metropolitan City,Muslim
+Female,68,3,always,online platforms,no,42,Windows,13,Submetropolitan,Christian
+male,72,1,often,multimedia resources,yes,39,Windows,17,Municipality,other
+Female,55,5,always,online platforms,no,41,IOS,18,Rural Municipality,Hindu
+male,49,3,often,multimedia resources,yes,41,Android,18,Submetropolitan,Muslim
+Female,58,5,always,educational apps,no,40,IOS,16,Municipality,Christian
+Female,57,4,often,educational apps,yes,41,Windows,15,Rural Municipality,Buddism
+Female,56,6,always,online platforms,no,38,others,14,Metropolitan City,Hindu
+Female,67,4,sometimes,educational apps,yes,38,IOS,12,Municipality,Christian
+male,58,1,always,online platforms,no,42,IOS,15,Rural Municipality,Muslim
+male,80,3,often,multimedia resources,yes,46,others,12,Submetropolitan,Christian
+Female,60,2,rarely,online platforms,no,48,others,17,Municipality,other
+Female,69,4,always,multimedia resources,yes,42,others,18,Rural Municipality,Hindu
+Female,58,3,often,online platforms,no,46,Windows,18,Submetropolitan,Muslim
+male,76,5,always,educational apps,yes,42,IOS,19,Rural Municipality,Christian
+Female,64,2,often,multimedia resources,yes,37,others,17,Municipality,Buddism
+male,56,4,always,educational apps,yes,37,IOS,16,Metropolitan City,Christian
+Female,52,5,sometimes,online platforms,yes,44,IOS,15,Submetropolitan,Hindu
+male,58,2,often,multimedia resources,no,43,Android,12,Municipality,Buddism
+Female,55,3,often,online platforms,yes,41,IOS,13,Rural Municipality,Christian
+male,49,4,always,multimedia resources,no,43,Windows,17,Metropolitan City,other
+Female,68,5,often,online platforms,yes,43,Android,18,Municipality,Christian
+male,65,6,always,online platforms,no,47,Android,18,Rural Municipality,Hindu
+Female,75,2,sometimes,multimedia resources,yes,44,IOS,16,Submetropolitan,Christian
+male,50,2,often,educational apps,no,37,Windows,15,Municipality,Muslim
+Female,70,4,always,online platforms,yes,43,others,14,Rural Municipality,other
+male,50,2,often,multimedia resources,no,34,Android,12,Submetropolitan,Hindu
+Female,57,5,always,"interactive whiteboards,",yes,46,IOS,15,Rural Municipality,Christian
+male,68,2,often,"interactive whiteboards,",no,45,Android,12,Submetropolitan,Christian
+Female,68,5,always,online platforms,yes,44,others,15,Metropolitan City,other
+male,54,4,often,educational apps,no,45,Android,14,Submetropolitan,Muslim
+male,72,2,always,multimedia resources,yes,41,IOS,20,Municipality,Hindu
+Female,52,1,often,multimedia resources,no,39,Windows,17,Rural Municipality,Christian
+male,54,3,always,multimedia resources,yes,37,others,18,Metropolitan City,other
